@@ -1,4 +1,4 @@
-# RNA-Puzzles_dataset
+# RNA-Puzzles dataset
 This repository includes all the submitted RNA structures in RNA-Puzzles. 
 
 The RNA Puzzles:  
@@ -23,3 +23,19 @@ The RNA Puzzles:
 * Puzzle 17: Pistol ribozyme
 * Puzzle 18: Zika virus
 * Puzzle 19: Twister sister
+
+# Citation
+
+```
+Miao, Zhichao, et al. 
+"RNA-Puzzles Round III: 3D RNA structure prediction of five riboswitches and one ribozyme." 
+RNA 23.5 (2017): 655-672.
+
+Miao, Zhichao, et al. 
+"RNA-Puzzles Round II: assessment of RNA structure prediction programs applied to three large RNA structures." 
+Rna (2015).
+
+Cruz, José Almeida, et al. 
+"RNA-Puzzles: a CASP-like evaluation of RNA three-dimensional structure prediction." 
+Rna 18.4 (2012): 610-625.
+```
