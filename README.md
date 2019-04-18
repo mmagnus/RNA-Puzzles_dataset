@@ -1,6 +1,12 @@
 # RNA-Puzzles dataset
 This repository includes all the submitted RNA structures in RNA-Puzzles. 
 
+Raw dataset contains structures submitted to the organizers without any correction.
+
+Normalize dataset contains  structures processed using PDBnormalizer, which only use the aligned segments and drop the missing atoms. This is used for prediction evaluation.
+
+We also provide https://github.com/RNA-Puzzles/RNA-Puzzles-Normalized-submissions which is normalized with rna-tools, which unmodify the nucleotides, add missing atoms. This is used for training scoring functions.
+
 The RNA Puzzles:  
 
 * Puzzle 1: RNA dimer of a regulatory element from human thymidylate synthase mRNA
